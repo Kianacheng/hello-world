@@ -2,11 +2,14 @@
 ADA Developers Academy Application
 
 Kiana Cheng
-PO BOX 94046 Seattle WA, 98124 Phone: (206) 890-9099 E-Mail: kianascheng@gmail.com
+PO BOX 94046 Seattle WA, 98124 
+Phone: (206) 890-9099 
+E-Mail: kianascheng@gmail.com
 
 OBJECTIVE: Obtain a long-term position in the technology industry that can utilize my skills and also continue to advance my knowledge and experience.
 
 RELATED EXPERIENCE:
+
 Registered Paraplanner, PAS Financial Planning (Current Employment)
 Perform a variety of technical and administrative tasks. Task include building excel spreadsheets for client issues, digital filing, updating client database, inputting data into financial plans, word processing, assisting clients with specific task.
 
